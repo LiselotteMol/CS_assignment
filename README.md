@@ -17,7 +17,7 @@ The assignment asks to create a Scalable Product Duplicate Detection Method. Thi
   Data excel consists of the data set that is used for this assignment. The data is obtained via https://personal.eur.nl/frasincar/datasets/TVs-all-merged.zip and transformed into an excel format. 
   
 **CS Final:**
-This file contains all the methods and functions needed for this project. It is important that first lines 1 until 125 are run before performing the bootstraps. Here, the data is not split yet. That comes in the other files. Also, the functions that are at the bottom of the files need to be run. 
+This file contains all the methods and functions needed for this project. It is important that first lines 1 until 125 are run before performing the bootstraps. This also loads the dataset into the workspace. Here, the data is not split yet. That comes in the other files. Also, the functions that are at the bottom of the files need to be run. 
 
 **Bootstrap 1**:
 When the CS final has been run for the determined lines, the bootstraps can be executed. It is possible to run the entire script for each document but not necessary, as this has already been computed, when running CS final. Therefore, start running from lines 72 until the end of the script. 
