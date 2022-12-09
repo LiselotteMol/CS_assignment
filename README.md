@@ -20,7 +20,7 @@ The assignment asks to create a Scalable Product Duplicate Detection Method. Thi
 This file contains all the methods and functions needed for this project. It is important that first lines 1 until 125 are run before performing the bootstraps. This also loads the dataset into the workspace. Here, the data is not split yet. That comes in the other files. Also, the functions that are at the bottom of the files need to be run. 
 
 **Bootstrap 1**:
-When the CS final has been run for the determined lines, the bootstraps can be executed. It is possible to run the entire script for each document but not necessary, as this has already been computed, when running CS final. Therefore, start running from lines 72 until the end of the script. 
+When the CS final has been run for the determined lines, the bootstraps can be executed. It is possible to run the entire script for each document but not necessary, as this has already been computed, when running the appointed lines in CS final. Therefore, start running from lines 72 until the end of the script. 
 
 **Bootstrap 2, 3, 4, 5:**
 The explanation is the same as for Bootstrap 1.
