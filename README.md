@@ -1,6 +1,12 @@
 # CS_assignment
 
-This repository has been set up for the assignment of the Computer Science for Business Analytics course (FEM21037). The repository consists of the following documents:
+This repository has been set up for the assignment of the Computer Science for Business Analytics course (FEM21037). 
+
+
+**Assignment description**
+The assignment asks to create a Scalable Product Duplicate Detection Method. This has been done by applying Locality Sensitive Hashing (LSH) and then Hierarchical Clustering algorithm to the data. 
+
+The repository consists of the following documents:
 - Data excel
 - CS Final
 - Bootstrap 1
@@ -8,9 +14,6 @@ This repository has been set up for the assignment of the Computer Science for B
 - Bootstrap 3
 - Bootstrap 4
 - Bootstrap 5
-
-**Assignment description**
-The assignment asks to create a Scalable Product Duplicate Detection Method. This has been done by applying Locality Sensitive Hashing (LSH) and then Hierarchical Clustering algorithm to the data. 
 
 
 **Data excel:**
